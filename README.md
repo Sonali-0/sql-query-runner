@@ -3,7 +3,7 @@
 ## Project Overview
 This project is a **web-based SQL query runner** that allows users to write and execute **SQL-like queries** on mock data. It provides a **CodeMirror-based editor** for query input, a **dynamic result table**, and interactive features like **click-to-generate queries**, **fullscreen toggle**, and **chunk-based loading** for large datasets.
 
-[Live Link]()
+[Live Link](https://sql-query-runner-taupe.vercel.app/)
 
 
 ---
@@ -70,15 +70,16 @@ This project is a **web-based SQL query runner** that allows users to write and 
 ---
 
 ## 🔗 Deployment & Submission Details
-- **GitHub Repository**: [Project Repo]()
-- **Live Demo**: [Deployed Link]()
+- **GitHub Repository**: [Project Repo](https://github.com/Sonali-0/sql-query-runner)
+- **Live Demo**: [Deployed Link](https://sql-query-runner-taupe.vercel.app/)
 
 ---
 
 ## 📜 How to Run Locally
 ```bash
 # Clone the repository
-
+git clone https://github.com/Sonali-0/sql-query-runner.git
+cd sql-query-runner
 
 # Install dependencies
 npm install
